@@ -15,3 +15,6 @@ Check the Issue Tracker for tasks.
 Code Review:
 All contributions undergo a code review process.
 
+   Licensing:
+   Contributions are licensed.
+
